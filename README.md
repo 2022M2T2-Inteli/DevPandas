@@ -26,26 +26,29 @@ O projeto Revirar precisa aumentar sua visibilidade, credibilidade e automatizar
 
 ## 📁 Estrutura de pastas
 
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
 
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Web_application_document.pdf
-por
-T4_G5_V01_Web_application_document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
-
+|--> backend<br>
+  &emsp;| --> api.js <br>
+  &emsp;| node<br>
+  &emsp;| revirar.db<br>
+  &emsp;| revirarDB.db<br>
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Web_application_document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Web_application_document.docx<br>
-|--> imagens<br>
-|--> src<br>
-  &emsp;|--> Backend<br>
-  &emsp;|--> Frontend<br>
+  &emsp;| T2_G2_V1.6_Web_application_document.pdf<br>
+  &emsp;| T2_G2_V1.6_Web_Web_application_document.docx<br><br>
+|--> Index<br>
+  &emsp;|--> arquivos<br>
+  &emsp;|--> icons<br>
+  &emsp;|--> imagens<br>
+  &emsp;|--> templates<br>
+  &emsp;|--> app_frontend_61.js<br>
+  &emsp;|--> todos os html<br>
+  &emsp;|--> script.js<br>
+  &emsp;|--> style.css<br>
+  &emsp;|--> styles.css<br>
+|--> node_modules<br>
+|--> package.json<br>
+|--> package-lock.json<br> 
 | readme.md<br>
 | license.txt
 
@@ -57,7 +60,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
 
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>frontend</b> que contêm, respectivamente, o código do servidor e o código da página web).
+- <b>backend/Index</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>frontend</b> que contêm, respectivamente, o código do servidor e o código da página web).
 
 ## 💻 Configuração para desenvolvimento
 
