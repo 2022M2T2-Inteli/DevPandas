@@ -15,7 +15,7 @@ DevPandas
 - <a href="https://www.linkedin.com/in/gabriela-de-morais-da-silva-467b29238/">Gabriela de Morais da Silva</a> <br/>
 - <a href="https://www.linkedin.com/in/igor-garcia-126a1823b/">Igor Scapin Francisco Garcia</a><br/> 
 - <a href="https://www.linkedin.com/in/leandro-duarte/">Leandro Silva Duarte</a><br/>
-- <a href="[https://br.linkedin.com/in/rafael-luftglas-29606b224?trk=public_profile_samename-profile">Rafael Luftglas</a><br/> 
+- <a href="https://br.linkedin.com/in/rafael-luftglas-29606b224?trk=public_profile_samename-profile">Rafael Luftglas</a><br/> 
 - <a href="https://www.linkedin.com/in/rodrigo-campos-8b70191ab">Rodrigo Campos Rodrigues</a>
 
 ## 📝 Descrição
