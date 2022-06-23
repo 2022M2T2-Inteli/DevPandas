@@ -3,7 +3,7 @@ window.addEventListener("scroll", function () { //faz o icone subir quando a pag
   img.classList.toggle("sticky", window.scrollY > 0);
 });
 
-api = "http://127.0.0.1:3061"; 
+api = "http://127.0.0.1:1234"; 
 
 //Usado para so precisar link nav e footer nas paginas e não precisar escrever todo o código.
 $(document).ready(function () {

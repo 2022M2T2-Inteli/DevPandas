@@ -4,7 +4,7 @@ const urlencodedParser = bodyParser.urlencoded({ extended: false })
 const hostname = '127.0.0.1';
  
 /* Servidor do Banco de Dados */
-const portback = 3061;
+const portback = 1234;
 const sqlite3 = require('sqlite3').verbose();
 const cors = require('cors')
 const server = express();
